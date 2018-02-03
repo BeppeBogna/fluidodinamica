@@ -8,9 +8,9 @@ I turni da seguire sono (inserite i nomi di chi pensa che andrà a quella lezion
 
 Lunedì 12-13 aula D1: Beppe,
 
-Mercoledì 14-15 aula G1: Beppe,
+Mercoledì 14-15 aula G1: Beppe, Marco
 
-Venerdì 14-15 aula ignota:
+Venerdì 14-15 aula ignota: 
 
 
 REGOLE GENERALI PER LaTeX:
