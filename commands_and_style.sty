@@ -1,0 +1,31 @@
+% Pacchetti utili
+\usepackage[a4paper, left=2.5cm, bottom=2.5cm]{geometry}
+\usepackage[italian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{bm}
+
+
+
+
+% Comandi utili
+\renewcommand{\d}{\mathrm{d}} %differenziali
+\newcommand{\der}[3][]{\frac{\d ^{#1}#2}{\d {#3}^{#1}}} %derivata totale: inserite tra parentesi quadre l'ordine della derivata, nella prima parentesi la graffa la funzione da derivare e nella seconda la variabile rispetto a cui si deriva
+\newcommand{\pder}[3][]{\frac{\partial ^{#1}#2}{\partial {#3}^{#1}}} %derivata parziale: inserite tra parentesi quadre l'ordine della derivata, nella prima parentesi la graffa la funzione da derivare e nella seconda la variabile rispetto a cui si deriva. Per le derivate miste arrangiatevi con \frac 
+\let\oldnabla\nabla %nabla senza freccia
+\renewcommand{\nabla}{\vec{\oldnabla}} %nabla con freccia
+\newcommand{\lap}{\oldnabla^2} %laplaciano
+
+\theoremstyle{theorem}
+\newtheorem{problema}{Problema}[section]
+\newtheorem{teorema}{Teorema}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollario}{Corollario}[section]
+
+\theoremstyle{definition}
+\newtheorem{soluzione}{Soluzione}[section]
+\newtheorem{osservazione}{Osservazione}[section]
