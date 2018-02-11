@@ -6,11 +6,11 @@ TURNI
 
 I turni da seguire sono (inserite i nomi di chi pensa che andrà a quella lezione, l'ideale sarebbe avere almeno due persone per lezione)
 
-Lunedì 12-13 aula D1: Beppe, Paolo
+Lunedì 12-13 aula D1: Beppe, Paolo, Elia
 
-Mercoledì 14-15 aula G1: Beppe, Marco, Paolo
+Mercoledì 14-15 aula G1: Beppe, Marco, Paolo, Elia
 
-Venerdì 14-15 aula ignota: Paolo
+Venerdì 14-15 aula G1: Paolo, Elia
 
 
 REGOLE GENERALI PER LaTeX:
